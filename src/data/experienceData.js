@@ -1,16 +1,16 @@
 export const experienceData = [
   {
     id: 1,
-    company: "Cybercore Solutions",
+    company: "Nintendo Development Center",
     jobtitle: "Junior Frontend Developer",
     startYear: "2018",
-    endYear: "2019",
+    endYear: "2020",
   },
   {
     id: 2,
     company: "Caktus Group",
     jobtitle: "Front-End Developer",
-    startYear: "2019",
+    startYear: "2020",
     endYear: "2021",
   },
   {
