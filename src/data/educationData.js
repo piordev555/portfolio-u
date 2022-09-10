@@ -11,7 +11,7 @@ export const educationData = [
     id: 1,
     institution: "Kyoto University",
     course: "Bachelor of Computer Science",
-    startYear: "2014",
-    endYear: "2018",
+    startYear: "2013",
+    endYear: "2017",
   },
 ];
