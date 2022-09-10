@@ -1,7 +1,7 @@
 export const socialsData = {
-  github: "https://github.com/snowflake-dev918/",
+  github: "https://github.com/snowlancer9/",
   // facebook: 'https://www.facebook.com/',
-  linkedIn: "https://www.linkedin.com/in/louis-egan-6a1251242/",
+  linkedIn: "https://www.linkedin.com/in/yamasaki-egan-3262a6248/",
   // instagram: 'https://www.instagram.com/',
   // codepen: 'https://codepen.io/',
   // twitter: 'https://twitter.com/',

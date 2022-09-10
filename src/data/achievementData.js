@@ -21,6 +21,33 @@ export const achievementData = {
       image:
         "https://www.classcentral.com/report/wp-content/uploads/2021/04/pluralsight-top-courses.png",
     },
+    {
+      id: 3,
+      title: "React certificate",
+      details: "I received React certification from HackerRank",
+      date: "Aug 25, 2022",
+      field: "Front End Development",
+      image:
+        "https://teamblindstatics.s3.ap-northeast-1.amazonaws.com/img/companyPage/logo_b86c5a03.png",
+    },
+    {
+      id: 4,
+      title: "CSS certificate",
+      details: "I received CSS certification from HackerRank",
+      date: "Aug 25, 2022",
+      field: "Front End Development",
+      image:
+        "https://teamblindstatics.s3.ap-northeast-1.amazonaws.com/img/companyPage/logo_b86c5a03.png",
+    },
+    {
+      id: 3,
+      title: "Angular certificate",
+      details: "I received Angular certification from HackerRank",
+      date: "Aug 25, 2022",
+      field: "Front End Development",
+      image:
+        "https://teamblindstatics.s3.ap-northeast-1.amazonaws.com/img/companyPage/logo_b86c5a03.png",
+    },
     // {
     //   id: 3,
     //   title: "Professional Data Engineer Certification",

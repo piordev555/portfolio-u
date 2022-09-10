@@ -1,7 +1,6 @@
 export const contactsData = {
-  email: "snowflake.dev918@gmail.com",
+  email: "lo.smartdev.009@gmail.com",
   phone: "+1 678 999 8268",
-  address: "3601 Flat Shoals Rd, Atlanta, GA, United states",
-
+  address: "1731 N Elm St Commerce, GA 30529 USA",
   sheetAPI: "",
 };
